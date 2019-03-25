@@ -12,8 +12,6 @@ Social Media of documents
 # Android Appliction
 [Link](https://github.com/mahmoodkarimizade/Kahkeshan)
 
-https://travis-ci.com/mahmoodkarimizade/Kahkeshan-Server.svg?branch=master
-
 # Video
 [![](ImageVideoKahkeshan.png)](https://www.aparat.com/v/T1Det)
 

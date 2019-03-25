@@ -1,11 +1,9 @@
 language: node_js
 sudo: false
 node_js:
-  - 10
-  - 9
-  - 8
-  - 7
-  - 6
+  - "8.11.3"
+  services:
+  - mongodb
 install:
   - cd istanbul-mocha && npm install && cd ..
 script:
